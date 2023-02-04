@@ -1,2 +1,2 @@
 # Optimized-Solutions
-This repository is about programs that are solutions of very popular problems in much more optimized way :) 
+This repository is about programs which contain solutions of popular problems in much more optimized way :) 
